@@ -1,7 +1,7 @@
 name: global_ui_overlay
 description: "A lightweight, plug-and-play Flutter package for displaying global overlay widgets with customizable positioning, effects, and callbacks"
 version: 0.0.1
-homepage:
+homepage: "https://github.com/gunjan1sharma/global_ui_overlay"
 
 environment:
   sdk: ^3.9.2
